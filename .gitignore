@@ -1,9 +1,10 @@
 .DS_Store
 dist
 target
-node_modules/*
+node_modules
 build2
 test/SpecRunner.html
 npm-debug.log
-lib/config.js
 testenv
+junit.xml
+lerna-debug.json
